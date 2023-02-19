@@ -1,0 +1,11 @@
+npm init -y -- init nhanh k can cofig
+
+node 19 k can nodemon
+
+
+npm i express --save
+
+
+file dua vao git ignore
+\node_modules
+\.env
